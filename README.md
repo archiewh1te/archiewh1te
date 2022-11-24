@@ -3,10 +3,12 @@
 ![](https://bournetocode.com/projects/GCSE_Computing_Fundamentals/pages/img/Programming_Languages_Main.png)
 ![](https://komarev.com/ghpvc/?username=archiewh1te)
 ## 📋About 
-Hello, my name is Alexander, I'm a Python developer from Russia 🇷🇺. 
-I have experience in Django, CSS, HTML, Flask, PyQt5. I mainly write telegram bots, I study different frameworks.
+Hello, my name is Alexander, I'm a Python developer from Russia 🇷🇺.
+I have experience with Django, CSS, HTML, PyQt5, Flask, Vue, Selenium, AIOGram. I mainly write telegram bots, I study different frameworks and tools.
 
-Skills: Python / Django / PyQt5 / HTML / CSS / JS
+**Skills:** Python / HTML / CSS / JS 
+
+**Framework:** AIOGram / Django / PyQt5 / Flask / Selenium / Vue 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiewh1te&layout=compact&show_icons=true&theme=radical)]()
 ## 🌐Social
