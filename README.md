@@ -12,7 +12,7 @@ Skills: Python / Django / PyQt5 / HTML / CSS / JS
 - 💬 Ask me about https://t.me/archiewh1te 
 - 📫 How to reach me: crash1911@mail.ru 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/archiewh1te)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/archiewh1te/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/archiewh1te/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/dx3d9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/archiewh1te)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/archiewh1te)
+[<img src='https://img.icons8.com/nolan/512/github.png' alt='github' height='40'>](https://github.com/archiewh1te)  [<img src='https://img.icons8.com/fluency/512/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/archiewh1te/)  [<img src='https://img.icons8.com/color/512/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/archiewh1te/)  [<img src='https://cdn.worldvectorlogo.com/logos/stack-overflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/dx3d9)  [<img src='https://img.icons8.com/color/512/youtube-play.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/archiewh1te)  [<img src='https://img.icons8.com/color/512/telegram-app.png' alt='telegram' height='40'>](https://t.me/archiewh1te)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=archiewh1te&show_icons=true&theme=dracula)]
@@ -21,4 +21,6 @@ Skills: Python / Django / PyQt5 / HTML / CSS / JS
   
 
 ![GitHub metrics](https://metrics.lecoq.io/archiewh1te)  
+
+
 
