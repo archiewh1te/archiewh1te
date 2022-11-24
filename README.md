@@ -3,7 +3,8 @@
 ![](https://bournetocode.com/projects/GCSE_Computing_Fundamentals/pages/img/Programming_Languages_Main.png)
 ![](https://komarev.com/ghpvc/?username=archiewh1te)
 ## 📋About 
-Hello, my name is Alexander, I'm a Python developer from Russia 🇷🇺. I have experience in Django, CSS, HTML, Flask, PyQt5. I mainly write telegram bots, I study different frameworks.
+Hello, my name is Alexander, I'm a Python developer from Russia 🇷🇺. 
+I have experience in Django, CSS, HTML, Flask, PyQt5. I mainly write telegram bots, I study different frameworks.
 
 Skills: Python / Django / PyQt5 / HTML / CSS / JS
 
