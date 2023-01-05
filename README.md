@@ -10,6 +10,8 @@ I have experience with Django, CSS, HTML, PyQt5, Flask, Vue, Selenium, AIOGram. 
 
 **Framework:** AIOGram / Django / PyQt5 / Flask / Selenium / Vue 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiewh1te&layout=compact&show_icons=true&theme=radical)]()
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -20,8 +22,6 @@ I have experience with Django, CSS, HTML, PyQt5, Flask, Vue, Selenium, AIOGram. 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiewh1te&layout=compact&show_icons=true&theme=radical)]()
 
 ## 🌐Social
 - 💬 Ask me about https://t.me/archiewh1te 
